@@ -1,0 +1,559 @@
+# depslib dependency file v1.0
+1675895470 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet\joueur_joueur.c
+	"All_Fcts.h"
+	<time.h>
+
+1675894839 c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet\all_fcts.h
+
+1675895470 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1675894839 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet\regles_jeu.c
+	"All_Fcts.h"
+
+1675515957 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet\affichage_jeu.c
+	<windows.h>
+
+1675515957 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\affichage_jeu.c
+	<windows.h>
+
+1675895470 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\joueur_joueur.c
+	"All_Fcts.h"
+	<time.h>
+
+1675972021 c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\all_fcts.h
+
+1675895470 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1675894839 source:c:\users\pc\desktop\sig_cours\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\regles_jeu.c
+	"All_Fcts.h"
+
+1676067104 source:c:\users\pc\desktop\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\affichage_jeu.c
+	<windows.h>
+
+1676063758 source:c:\users\pc\desktop\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\joueur_joueur.c
+	"All_Fcts.h"
+	<time.h>
+
+1676062387 c:\users\pc\desktop\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\all_fcts.h
+
+1676063758 source:c:\users\pc\desktop\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\main.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676315109 source:c:\users\pc\desktop\sig_cours\tech_programation\cprojet\1sig_go_projet_premier\regles_jeu.c
+	"All_Fcts.h"
+
+1676477913 source:c:\users\pc\desktop\1sig_go_projet_khdaaaaaaaaaaaaaaam\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676496679 source:c:\users\pc\desktop\1sig_go_projet_khdaaaaaaaaaaaaaaam\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676496612 c:\users\pc\desktop\1sig_go_projet_khdaaaaaaaaaaaaaaam\all_fcts.h
+
+1676497699 source:c:\users\pc\desktop\1sig_go_projet_khdaaaaaaaaaaaaaaam\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676496729 source:c:\users\pc\desktop\1sig_go_projet_khdaaaaaaaaaaaaaaam\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676475833 source:c:\users\pc\desktop\1sig_go_projet_khdaaaaaaaaaaaaaaam\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676477913 source:c:\users\pc\desktop\1sig_go_projet_lastmodification\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676588629 c:\users\pc\desktop\1sig_go_projet_lastmodification\all_fcts.h
+
+1676475833 source:c:\users\pc\desktop\1sig_go_projet_lastmodification\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676589196 source:c:\users\pc\desktop\1sig_go_projet_lastmodification\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676588865 source:c:\users\pc\desktop\1sig_go_projet_lastmodification\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676589196 source:c:\users\pc\desktop\1sig_go_projet_lastmodification\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676729264 source:c:\users\pc\desktop\1sig_go_projet_lastmodification - copie\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676632787 c:\users\pc\desktop\1sig_go_projet_lastmodification - copie\all_fcts.h
+
+1676729580 source:c:\users\pc\desktop\1sig_go_projet_lastmodification - copie\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676727201 source:c:\users\pc\desktop\1sig_go_projet_lastmodification - copie\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676636140 source:c:\users\pc\desktop\1sig_go_projet_lastmodification - copie\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676729452 source:c:\users\pc\desktop\1sig_go_projet_lastmodification - copie\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676737338 source:c:\users\pc\desktop\1sig_go_projet_18_02_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676760533 c:\users\pc\desktop\1sig_go_projet_18_02_23\all_fcts.h
+
+1676738310 source:c:\users\pc\desktop\1sig_go_projet_18_02_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676752997 source:c:\users\pc\desktop\1sig_go_projet_18_02_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676738296 source:c:\users\pc\desktop\1sig_go_projet_18_02_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676738601 source:c:\users\pc\desktop\1sig_go_projet_18_02_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676764611 source:c:\users\pc\desktop\1sig_go_projet_18_02_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676764503 source:c:\users\pc\desktop\1sig_go_projet_18_02_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676808802 source:c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676760533 c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\all_fcts.h
+
+1676812578 source:c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676738601 source:c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676812060 source:c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676764611 source:c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676752997 source:c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676812252 source:c:\users\pc\downloads\1sig_go_projet_18_02_23\1sig_go_projet_18_02_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676827151 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676837598 c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\all_fcts.h
+
+1676837577 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676837630 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676837639 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676815380 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676752997 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676837274 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version1\1sig_go_projet_18_02_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676845474 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676845272 c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\all_fcts.h
+
+1676815380 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676845575 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676845248 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676840145 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676838711 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676845248 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version2\1sig_go_projet_18_02_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676845248 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676852608 c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\all_fcts.h
+
+1676840145 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676838711 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676815380 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676845575 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676848422 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676851947 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version3\1sig_go_projet_18_02_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676845248 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676852608 c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\all_fcts.h
+
+1676856069 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676859344 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676859340 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676845575 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676852764 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676856851 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version4\1sig_go_projet_18_02_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676845248 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676866068 c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\all_fcts.h
+
+1676856069 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676856851 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676859344 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676865900 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676852764 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676859534 source:c:\users\pc\downloads\1sig_go_projet_19_02_23_version6\1sig_go_projet_18_02_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676856069 source:c:\users\pc\downloads\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676866068 c:\users\pc\downloads\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\all_fcts.h
+
+1676866069 source:c:\users\pc\downloads\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676859344 source:c:\users\pc\downloads\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676859534 source:c:\users\pc\downloads\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676865900 source:c:\users\pc\downloads\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676852764 source:c:\users\pc\downloads\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676866821 source:c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676866068 c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\all_fcts.h
+
+1676856069 source:c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676866069 source:c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676859344 source:c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1677020397 source:c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676865900 source:c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1676852764 source:c:\users\dell\desktop\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676866821 source:c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\affichage_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<windows.h>
+
+1676866068 c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\all_fcts.h
+
+1676856069 source:c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_joueur.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1683328652 source:c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_machine.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1676859344 source:c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\joueur_machineia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+	<time.h>
+
+1677020397 source:c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\machine_ia.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
+1676865900 source:c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"All_Fcts.h"
+
+1688058300 source:c:\users\dell\desktop\bereau\projetc_codesource\2023_projetc_sig_dbaichiyassine_ahmedbajadda_aliouabed_mazouzoussama\1sig_go_projet_23\regles_jeu.c
+	<stdio.h>
+	<stdlib.h>
+	"All_Fcts.h"
+
